@@ -15,6 +15,10 @@
   <a href="https://www.instagram.com/onlyadx99/"><img src="https://img.shields.io/badge/Instagram-0D0208?style=for-the-badge&logo=instagram&logoColor=FF3333" alt="Instagram" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UserAdityaKhawale&color=FF3333&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <div align="center">
   <br />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Divider" width="25" />
