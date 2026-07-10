@@ -120,9 +120,8 @@ A responsive currency converter that fetches live exchange rates and automatical
 ### 📺 Latest YouTube Videos
 
 <p align="center">
-  <a href="https://www.youtube.com/@Adx99Official">
-    <!-- Note: You will need to setup a Github Action for youtube cards or use an API like below -->
-    <img src="https://github-readme-youtube-cards.cyclic.app/api/cards?channelid=YOUR_CHANNEL_ID_HERE&theme=dark" alt="YouTube Video Cards" />
+  <a href="https://www.youtube.com/watch?v=ASkaSuRl_AY">
+    <img src="https://img.youtube.com/vi/ASkaSuRl_AY/maxresdefault.jpg" alt="Geass Demo Video" width="600" style="border-radius: 10px;" />
   </a>
 </p>
 
