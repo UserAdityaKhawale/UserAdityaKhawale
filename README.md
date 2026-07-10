@@ -37,22 +37,14 @@ What started as an idea to bring projects, tasks, notes, focus sessions, and pro
 - **Features:** Kanban boards, task creation/progress tracking, AI Copilot for task generation/planning, notes, Pomodoro focus sessions, productivity tracking, and a smooth responsive UI (Dark/Light themes).
 - **Tech Highlights:** Next.js, React.js, AI Integrations, Authentication, Fullstack APIs.
 - 🔗 **[Live Demo](https://geass-app.vercel.app/)** | 🎥 **[Demo Video](https://youtu.be/ASkaSuRl_AY)**
-<br/>
-<p align="center">
-  <!-- TODO: Upload your Geass screenshot as 'geass-preview.png' to this repo -->
-  <img src="geass-preview.png" alt="Geass Preview" width="700" style="border-radius: 10px;" />
-</p>
+
 
 #### 2. SnapCurrency 💱
 A responsive currency converter that fetches live exchange rates and automatically falls back to offline rates for common currencies when the network is unavailable.
 - **Features:** Live currency conversion, offline fallback, currency search, swap currencies, favorite currencies, conversion history, Light/Dark theme.
 - **Tech Highlights:** HTML5, CSS3, JavaScript (ES6), Exchange Rate API.
 - 🔗 **[Live Demo](https://useradityakhawale.github.io/SnapCurrency/)** | 💻 **[Source Code](https://github.com/UserAdityaKhawale/SnapCurrency)**
-<br/>
-<p align="center">
-  <!-- TODO: Upload your SnapCurrency screenshot as 'snapcurrency-preview.png' to this repo -->
-  <img src="snapcurrency-preview.png" alt="SnapCurrency Preview" width="700" style="border-radius: 10px;" />
-</p>
+
 
 ---
 
