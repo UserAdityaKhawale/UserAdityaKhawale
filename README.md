@@ -110,8 +110,8 @@ A responsive currency converter that fetches live exchange rates and automatical
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=UserAdityaKhawale&repo=SnapCurrency&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="SnapCurrency" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=UserAdityaKhawale&repo=geass&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="Geass (if public)" /></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UserAdityaKhawale&repo=SnapCurrency&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="SnapCurrency" /></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=UserAdityaKhawale&repo=geass&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="Geass (if public)" /></td>
   </tr>
 </table>
 
@@ -130,11 +130,11 @@ A responsive currency converter that fetches live exchange rates and automatical
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UserAdityaKhawale&show_icons=true&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=UserAdityaKhawale&show_icons=true&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UserAdityaKhawale&background=0D0208&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAdityaKhawale&layout=compact&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UserAdityaKhawale&layout=compact&bg_color=0D0208&title_color=FF3333&icon_color=FF3333&text_color=C9D1D9&border_color=330000&hide_border=true" alt="Top Languages" />
 </div>
